@@ -1,4 +1,4 @@
-# Alunos:
+# Aluno:
 # Matheus Lima Machado
 # rga: 201519060068
 
